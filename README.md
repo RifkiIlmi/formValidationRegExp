@@ -1,2 +1,2 @@
 # formValidationRegExp
-A simple form validation using regular express
+A simple form validation using regular expressions
